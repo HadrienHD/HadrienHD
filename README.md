@@ -1,5 +1,5 @@
 - 👋 Salut, I’m @HadrienHD but you can call me Baba or HD.
-- 👀 I’m interested in : Frontend
+- 👀 I’m interested in : Frontend, Graphism, Real time webs, 3D...
 - 🌱 I’m currently learning : React
 - 💞️ I’m looking to collaborate on : React
 - 📫 How to reach me : i'm right behind you !
