@@ -1,0 +1,56 @@
+#p1 {
+    color:grey;
+}
+
+#p2 {
+    text-align: justify;
+    width: 400px;
+}
+
+body
+{
+    background: url("6425512.jpg");
+    background-attachment: fixed; /* Le fond restera fixe */
+    background-repeat: no-repeat; /* Le fond ne sera pas répété */
+}
+
+@font-face {
+    font-family: 'SomeTimeLater';
+    src: url('SomeTimeLater.otf') format('otf'),
+}
+
+h2 {
+    font-family: "Some Time Later";
+    color:white;
+    font-size: 3em;
+}
+
+h1 {
+    border: 5px dotted orange;
+    display: inline-block;
+    margin:0 25px;
+    padding:0 10px;
+}
+
+img {
+    -webkit-box-shadow: 22px 14px 14px 0px rgba(255,68,43,0.52), 11px 12px 0px -5px rgba(88,78,255,0.4); 
+    box-shadow: 22px 14px 14px 0px rgba(255,68,43,0.52), 11px 12px 0px -5px rgba(88,78,255,0.4);
+}
+
+
+
+
+#liseret {
+    display: inline-block;
+    width: 10%;
+    margin-right: 3%;
+    height: 500px;
+    background-image: url('lodyas.png');
+    border-radius: 10px;
+}
+
+#contenu {
+    display: inline-block;
+    vertical-align: top;
+    width: 50%;
+}
