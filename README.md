@@ -8,7 +8,7 @@ HELLOW ORLD !
 
 BO? 
 J'avou c'est un projet de merde mais j'ai trouvé que ca en HTML :
-- [WOW SITE DE FOUFi](https://hadrienhd.github.io/HadrienHD/)
+- [CV en ligne](https://hadrienhd.github.io/HadrienHD/site/index.html)
 
-Si vous cherchez mon CV vous le trouverez ici => [Mon CV](https://hadrienhd.github.io/HadrienHD/CV/cv.pdf)</br>
+Si vous cherchez mon CV vous le trouverez ici => [Mon CV papier](https://hadrienhd.github.io/HadrienHD/CV/cv.pdf)</br>
 Si vous cherchez mon BOOK vous le trouverez ici => [Mon BOOK](https://hadrienhd.github.io/HadrienHD/CV/Book.pdf)
