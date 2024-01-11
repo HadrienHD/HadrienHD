@@ -6,8 +6,6 @@ HELLOW ORLD !
 - 💞️ I’m looking to collaborate on : React
 - 📫 How to reach me : i'm right behind you !
 
-BO? 
-J'avou c'est un projet de merde mais j'ai trouvé que ca en HTML :
 - [CV en ligne](https://hadrienhd.github.io/HadrienHD/site/index.html)
 
 Si vous cherchez mon CV vous le trouverez ici => [Mon CV papier](https://hadrienhd.github.io/HadrienHD/CV/cv.pdf)</br>
